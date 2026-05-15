@@ -4,6 +4,8 @@ An end-to-end machine learning pipeline for predicting student academic performa
 
 This project explores both **classical machine learning** and **deep learning** approaches on the UCI Student Performance dataset, with a strong focus on preprocessing, feature engineering, model comparison, and evaluation.
 
+Live Demo Link : [Try it here!](https://student-performance-predictor-dgkutgifjqctwc5gxqee3u.streamlit.app/)
+
 ---
 
 ## Project Overview
