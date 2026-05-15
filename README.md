@@ -262,8 +262,6 @@ Possible extensions:
 - SMOTE / class balancing
 - Feature selection methods
 - XGBoost / LightGBM benchmarking
-- Model deployment using Flask/Streamlit
-
 ---
 
 ## Tech Stack
@@ -289,6 +287,21 @@ student-performance-predictor/
 ├── results/
 ├── README.md
 └── requirements.txt
+```
+
+---
+
+## Application Demo
+
+<img width="1088" height="751" alt="image" src="https://github.com/user-attachments/assets/0f26a9db-4cf3-45c3-8b9d-fe15fb28e1c8" />
+<img width="997" height="782" alt="image" src="https://github.com/user-attachments/assets/bb7ec94e-81db-413f-a67a-81a8319a68c5" />
+
+---
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
 ```
 
 ---
